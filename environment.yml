@@ -14,23 +14,30 @@ dependencies:
   - cudatoolkit=9.2=0
   - cudnn=7.6.5=cuda9.2_0
   - cupti=9.2.148=0
+  - freetype=2.11.0=h70c0345_0
   - gast=0.5.3=pyhd3eb1b0_0
   - grpcio=1.12.1=py36hdbcaa40_0
   - h5py=2.8.0=py36h989c5e5_3
   - hdf5=1.10.2=hba1933b_1
   - intel-openmp=2022.0.1=h06a4308_3633
+  - jpeg=9e=h7f8727e_0
   - keras=2.2.2=0
   - keras-applications=1.0.4=py36_1
   - keras-base=2.2.2=py36_0
   - keras-preprocessing=1.0.2=py36_1
+  - lcms2=2.12=h3be6417_0
   - ld_impl_linux-64=2.38=h1181459_1
   - libffi=3.3=he6710b0_2
   - libgcc-ng=9.3.0=h5101ec6_17
   - libgfortran-ng=7.5.0=ha8ba4b0_17
   - libgfortran4=7.5.0=ha8ba4b0_17
   - libgomp=9.3.0=h5101ec6_17
+  - libpng=1.6.37=hbc83047_0
   - libprotobuf=3.6.0=hdbcaa40_0
   - libstdcxx-ng=9.3.0=hd4cf53a_17
+  - libtiff=4.2.0=h2818925_1
+  - libwebp-base=1.2.2=h7f8727e_0
+  - lz4-c=1.9.3=h295c915_1
   - markdown=2.6.11=py36_0
   - mkl=2018.0.3=1
   - mkl_fft=1.0.6=py36h7dd41cf_0
@@ -38,7 +45,10 @@ dependencies:
   - ncurses=6.3=h7f8727e_2
   - numpy=1.15.2=py36h1d66e8a_1
   - numpy-base=1.15.2=py36h81de0dd_1
+  - olefile=0.46=py36_0
+  - openjpeg=2.4.0=h3ad879b_0
   - openssl=1.1.1q=h7f8727e_0
+  - pillow=8.3.1=py36h2c7a002_0
   - pip=10.0.1=py36_0
   - protobuf=3.6.0=py36hf484d3e_0
   - python=3.6.13=h12debd9_1
@@ -63,4 +73,5 @@ dependencies:
   - xz=5.2.5=h7f8727e_1
   - yaml=0.1.7=had09818_2
   - zlib=1.2.12=h7f8727e_2
+  - zstd=1.5.2=ha4553b6_0
 prefix: /home/alan/miniconda3/envs/ml-learn
